@@ -111,9 +111,7 @@
 </details>
 
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=owner2plusai)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=owner2plusai&theme=highcontrast)](https://git.io/streak-stats)
 
 
 
