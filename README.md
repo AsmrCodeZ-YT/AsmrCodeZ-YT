@@ -3,10 +3,22 @@
     <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="OMID Ebrahimi" /></a>
 </p>
 
+
+
+
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70097&width=435&lines=%20%20Wellcome+to+my+Github+Profile.;++++Computer+Vision+and+NLP+Developer;+++++++++++3+Years+exprince+in+A.I+%2C+D.L;+++++++++++++Alaways+learning+new+things" alt="Typing SVG" /></a>
+  <a href="https://github.com/OWNER2PLUSAI">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Wellcome%20to%20my%20Github%20Profile.;%20Computer%20Vision%20and%20NLP%20Developer;3%20Years%20exprince%20in%20A.I%20%2C%20D.L;Alaways%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
+
+
+
+Wellcome%20to%20my%20Github%20Profile.;%20Computer%20Vision%20and%20NLP%20Developer;3%20Years%20exprince%20in%20A.I%20%2C%20D.L;Alaways%20learning%20new%20things)](https://git.io/typing-svg)
+
+
+
+
+
 
 
 
