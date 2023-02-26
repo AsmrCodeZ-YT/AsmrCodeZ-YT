@@ -4,7 +4,7 @@
 </p> -->
 <p align="center">
   <a href="https://github.com/OWNER2PLUSAI">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=1&pause=1000&color=F70097&width=435&lines=OMID+Ebrahimi" alt="OMID Ebrahimi" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=1&pause=1000&color=F70097&width=435&lines=%20%20%20%20%20%20OMID+Ebrahimi" alt="OMID Ebrahimi" /></a>
 </p>
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=1&pause=1000&color=F70097&width=435&lines=OMID+Ebrahimi)](https://git.io/typing-svg) -->
 
