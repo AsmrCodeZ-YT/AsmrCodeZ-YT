@@ -1,9 +1,6 @@
-<!-- <p align="center">
-  <a href="https://github.com/OWNER2PLUSAI">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="OMID Ebrahimi" /></a>
-</p> -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=1&pause=1000&color=F70097&width=435&lines=OMID+Ebrahimi" alt="Typing SVG" /></a>
+  <a href="https://github.com/OWNER2PLUSAI">
+    <img src="https://readme-typing-svg.demolab.com/?lines=OMID%20Ebrahimi;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 
