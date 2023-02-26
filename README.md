@@ -116,16 +116,16 @@
 <details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
-  <h3>🔥 Streak Stats</h3>
+  <h3 align="center">💻 GitHub Profile Stats</h3>
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p>
+  <p align="center">
     <a href="https://github.com/owner2plusai">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="OWNER2PLUSAI's streak" src="https://streak-stats.demolab.com/?user=owner2plusai&theme=monokai-metallian&hide_border=true"/>
     </a>
     
 
-  <h3>💻 GitHub Profile Stats</h3>
+  
 
 
 
@@ -145,29 +145,6 @@
 
 
 </details>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
