@@ -8,28 +8,51 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Wellcome%20to%20my%20Github%20Profile.;%20Computer%20Vision%20and%20NLP%20Developer;3%20Years%20exprince%20in%20A.I%20%2C%20D.L;Alaways%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<h2 align="center">..Connection..</h2>
-
 <p align="center">
 <a href="www.linkedin.com/in/owner2plusai" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/owner2plusai" height="35" width="130" /></a>&nbsp;             
 <a href="https://instagram.com/owner_2plus_ai" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E000000?style=for-the-badge&logo=instagram&logoColor=white" alt="prathameshdhande5139" height="35" width="150" /></a>&nbsp;
 <a href=": https://www.youtube.com/@owner2plusai" target="blank"><img align="center" src="https://img.shields.io/badge/Youtube-E00000?style=for-the-badge&logo=YouTube&logoColor=white" alt=": https://www.youtube.com/@owner2plusai" height="35" width="150" /></a>&nbsp;
 <a href="owner2plus.ai@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-Eff200?style=for-the-badge&logo=Gmail&logoColor=black" alt="owner2plus.ai@gmail.com" height="35" width="150" /></a>&nbsp;
 
+<p align="center">
+  <a href="https://www.youtube.com/c/owner2plusai?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCipSxT7a3rn81vGLw9lqRkg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
+  <a href="https://www.youtube.com/c/owner2plusai">
+    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCipSxT7a3rn81vGLw9lqRkg?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+  <a href="https://github.com/owner2plusai?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/owner2plusai?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/ownerplusai?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/owner2plusai/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+</p>
 
 
 
 
 
-<h3 align="center">A passionate of Software Developer </h3>
 
-![Visitor Count](https://profile-counter.glitch.me/{prathameshdhande22}/count.svg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <h3 align="center">A passionate of Software Developer </h3>
+
 
 - 🌱 I’m currently learning </br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1. Computer Vision And NLP**</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **2. Data Structure and Algorithms For A.I** </br>
-- 📫 How to reach me **owner2plus.ai@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **owner2plus.ai@gmail.com** -->
 
 
 
@@ -42,13 +65,6 @@
 
 
 
-
-
-<!-- https://img.shields.io/badge/Youtube-E450ff?style=for-the-badge&logo=YouTube&logoColor=white -->
-
-
-<!-- 
-<a href="https://leetcode.com/prathamesh2003/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="prathamesh2003" height="35" width="140"/></a>&nbsp; -->
 
 </p>
 
@@ -69,21 +85,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"  width="60" height="60" /></a> <a href="https://pandas.pydata.org/docs/getting_started/index.html" target="_blank" rel="noreferrer"><img src="images/pandas_white.svg" width="130" height="60"/></a><a href="https://matplotlib.org/stable/api/index.html" target="_blank" rel="noreferrer"><img src="images/logo_dark.svg" width="150" height="60"/></a><a href="https://seaborn.pydata.org/api.html" target="_blank" rel="noreferrer"><img src="https://ucarecdn.com/95a55829-e0a1-45e3-ae74-4358ba66e4e3/" width="150" height="60"/></a> 
 <a href="https://docs.python-telegram-bot.org/en/stable/index.html"><img src="https://ucarecdn.com/9dff300f-f0c1-46a4-8f2a-0a38c4964ebd/-/scale_crop/80x80/"></a>
 </p>
-
-<h3>HackerRank Verified Skills :</h3>
-<a href="https://www.hackerrank.com/certificates/ae5dbc2a7242" target="_blank"><img src="images/java.png" alt="java" width="80" ></a> &nbsp;
-<a href="https://www.hackerrank.com/certificates/f936f83e707d" target="_blank"><img src="images/python.png" alt="java" width="80" ></a> &nbsp;
-<a href="https://www.hackerrank.com/certificates/10858d06e504" target="_blank"><img src="images/sql.png" alt="java" width="80" ></a> &nbsp;
-<a href="https://www.hackerrank.com/certificates/b91cefc0b310" target="_blank"><img src="images/problem_solving.png" alt="java" width="80" height="110" ></a>
-</br>
-
-<h3> My Trophies in Github :</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathameshdhande22&theme=radical" alt="prathameshdhande22" /></a> </p>
-
-<h3> Most Used Languages :</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshdhande22&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="prathameshdhande22" /></p>
-<br/>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=prathameshdhande22&show_icons=true&locale=en&theme=highcontrast" alt="prathameshdhande22" /></p>
-<br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshdhande22&theme=highcontrast" alt="prathameshdhande22" /></p>
