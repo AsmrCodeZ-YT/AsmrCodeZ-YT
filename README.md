@@ -8,6 +8,8 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Wellcome%20to%20my%20Github%20Profile.;%20Computer%20Vision%20and%20NLP%20Developer;3%20Years%20exprince%20in%20A.I%20%2C%20D.L;Alaways%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
+<h2 align="center">..Connection..</h2>
+
 <p align="center">
 <a href="www.linkedin.com/in/owner2plusai" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/owner2plusai" height="35" width="130" /></a>&nbsp;             
 <a href="https://instagram.com/owner_2plus_ai" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E000000?style=for-the-badge&logo=instagram&logoColor=white" alt="prathameshdhande5139" height="35" width="150" /></a>&nbsp;
