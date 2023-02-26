@@ -36,13 +36,13 @@
 
   <!-- prettier-ignore-start -->
   <!-- BEGIN YOUTUBE-CARDS -->
-<a href="https://www.youtube.com/watch?v=6u9BrDaSHJc"><img src="https://ytcards.demolab.com/?id=6u9BrDaSHJc&title=Automatically+Deploy+to+Fly.io+with+GitHub+Actions&lang=en&timestamp=1661864404&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=312" alt="Automatically Deploy to Fly.io with GitHub Actions" title="Automatically Deploy to Fly.io with GitHub Actions"></a>
-<a href="https://www.youtube.com/watch?v=J7Fm7MdZn_E"><img src="https://ytcards.demolab.com/?id=J7Fm7MdZn_E&title=Hosting+a+Python+Discord+Bot+for+Free+with+Fly.io&lang=en&timestamp=1661708747&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=403" alt="Hosting a Python Discord Bot for Free with Fly.io" title="Hosting a Python Discord Bot for Free with Fly.io"></a>
-<a href="https://www.youtube.com/watch?v=0p_eQGKFY3I"><img src="https://ytcards.demolab.com/?id=0p_eQGKFY3I&title=Making+a+Wordle+Clone+Discord+Bot+with+Python+%28Nextcord%29&lang=en&timestamp=1643900217&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=2115" alt="Making a Wordle Clone Discord Bot with Python (Nextcord)" title="Making a Wordle Clone Discord Bot with Python (Nextcord)"></a>
-<a href="https://www.youtube.com/watch?v=Mt_Bsj6K9Lw"><img src="https://ytcards.demolab.com/?id=Mt_Bsj6K9Lw&title=Run+Open+Source+Code+in+Seconds+with+GitPod&lang=en&timestamp=1642108413&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=578" alt="Run Open Source Code in Seconds with GitPod" title="Run Open Source Code in Seconds with GitPod"></a>
-<a href="https://www.youtube.com/watch?v=xsA5QAkr-04"><img src="https://ytcards.demolab.com/?id=xsA5QAkr-04&title=Custom+Help+Commands+%5B%232%5D+Select+Menus+-+Python+Discord+Bot&lang=en&timestamp=1633051808&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1188" alt="Custom Help Commands [#2] Select Menus - Python Discord Bot" title="Custom Help Commands [#2] Select Menus - Python Discord Bot"></a>
-<a href="https://www.youtube.com/watch?v=TzR8At0SFQI"><img src="https://ytcards.demolab.com/?id=TzR8At0SFQI&title=Custom+Help+Commands+%5B%231%5D+Embeds+-+Python+Discord+Bot&lang=en&timestamp=1632947582&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1245" alt="Custom Help Commands [#1] Embeds - Python Discord Bot" title="Custom Help Commands [#1] Embeds - Python Discord Bot"></a>
-<!-- END YOUTUBE-CARDS -->
+  <a href="https://www.youtube.com/watch?v=6u9BrDaSHJc"><img src="https://ytcards.demolab.com/?id=6u9BrDaSHJc&title=Automatically+Deploy+to+Fly.io+with+GitHub+Actions&lang=en&timestamp=1661864404&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=312" alt="Automatically Deploy to Fly.io with GitHub Actions" title="Automatically Deploy to Fly.io with GitHub Actions"></a>
+  <a href="https://www.youtube.com/watch?v=J7Fm7MdZn_E"><img src="https://ytcards.demolab.com/?id=J7Fm7MdZn_E&title=Hosting+a+Python+Discord+Bot+for+Free+with+Fly.io&lang=en&timestamp=1661708747&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=403" alt="Hosting a Python Discord Bot for Free with Fly.io" title="Hosting a Python Discord Bot for Free with Fly.io"></a>
+  <a href="https://www.youtube.com/watch?v=0p_eQGKFY3I"><img src="https://ytcards.demolab.com/?id=0p_eQGKFY3I&title=Making+a+Wordle+Clone+Discord+Bot+with+Python+%28Nextcord%29&lang=en&timestamp=1643900217&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=2115" alt="Making a Wordle Clone Discord Bot with Python (Nextcord)" title="Making a Wordle Clone Discord Bot with Python (Nextcord)"></a>
+  <a href="https://www.youtube.com/watch?v=Mt_Bsj6K9Lw"><img src="https://ytcards.demolab.com/?id=Mt_Bsj6K9Lw&title=Run+Open+Source+Code+in+Seconds+with+GitPod&lang=en&timestamp=1642108413&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=578" alt="Run Open Source Code in Seconds with GitPod" title="Run Open Source Code in Seconds with GitPod"></a>
+  <a href="https://www.youtube.com/watch?v=xsA5QAkr-04"><img src="https://ytcards.demolab.com/?id=xsA5QAkr-04&title=Custom+Help+Commands+%5B%232%5D+Select+Menus+-+Python+Discord+Bot&lang=en&timestamp=1633051808&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1188" alt="Custom Help Commands [#2] Select Menus - Python Discord Bot" title="Custom Help Commands [#2] Select Menus - Python Discord Bot"></a>
+  <a href="https://www.youtube.com/watch?v=TzR8At0SFQI"><img src="https://ytcards.demolab.com/?id=TzR8At0SFQI&title=Custom+Help+Commands+%5B%231%5D+Embeds+-+Python+Discord+Bot&lang=en&timestamp=1632947582&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1245" alt="Custom Help Commands [#1] Embeds - Python Discord Bot" title="Custom Help Commands [#1] Embeds - Python Discord Bot"></a>
+  <!-- END YOUTUBE-CARDS -->
   <!-- prettier-ignore-end -->
 
   <p>📺 Get YouTube Cards for your profile at <a href="https://github.com/DenverCoder1/github-readme-youtube-cards">DenverCoder1/github-readme-youtube-cards</a></p>
@@ -111,6 +111,51 @@
 </details>
 
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=owner2plusai)](https://git.io/streak-stats)
+
+
+<!-- 
+<details> 
+  <summary><h2>📊 Github Stats and Activity</h2></summary>
+
+  <h3>🔥 Streak Stats</h3>
+
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/owner2plusai/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
+    </a>
+    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  </p>
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DenverCoder1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+  <h3>⚡ Recent GitHub Activity</h3>
+
+  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
+  <!--START_SECTION:activity-->
+
+1. 🎉 Merged PR [#93](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/93) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+2. 🎉 Merged PR [#70](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/70) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
+3. 🗣 Commented on [#426](https://github.com/DenverCoder1/jct-discord-bot/issues/426) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+4. 🎉 Merged PR [#49](https://github.com/DenverCoder1/discord-bot-template/pull/49) in [DenverCoder1/discord-bot-template](https://github.com/DenverCoder1/discord-bot-template)
+5. 🗣 Commented on [#968](https://github.com/python-babel/babel/issues/968) in [python-babel/babel](https://github.com/python-babel/babel)
+<!--END_SECTION:activity-->
+
+</details> -->
 
 
 
