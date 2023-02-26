@@ -15,12 +15,15 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/owner2plusai" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/owner2plusai" height="35" width="130" /></a>&nbsp;             
-<a href="https://instagram.com/prathameshdhande5139" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="prathameshdhande5139" height="35" width="150" /></a>&nbsp;
-<a href="https://www.facebook.com/prathamesh.dhande.71/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="prathameshdhande5139" height="35" width="140" /></a>&nbsp;
+<a href="https://instagram.com/owner_2plus_ai" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="prathameshdhande5139" height="35" width="150" /></a>&nbsp;
+<a href="https://instagram.com/owner2plusai" target="blank"><img align="center" src="https://img.shields.io/badge/Youtube-E450ff?style=for-the-badge&logo=YouTube&logoColor=white" alt="owner2plusai" height="35" width="150" /></a>&nbsp;
+
+<!-- https://img.shields.io/badge/Youtube-E450ff?style=for-the-badge&logo=YouTube&logoColor=white -->
 
 
-<a href="https://leetcode.com/prathamesh2003/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="prathamesh2003" height="35" width="140"/></a>&nbsp;
-<a href="https://www.codechef.com/users/prathamesh2003" target="blank"><img align="center" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"  alt="prathamesh2003" height="35" width="140"/></a>
+<!-- 
+<a href="https://leetcode.com/prathamesh2003/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="prathamesh2003" height="35" width="140"/></a>&nbsp; -->
+
 </p>
 
 <h3 align="left">Languages :</h3>
