@@ -4,20 +4,20 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=6500&color=01F736&width=800&height=60&lines=Hii+There+%F0%9F%91%8B+%2C+It's+Me+Prathamesh+Dhande.;I+love+coding+in+Python+and+Java.;Welcome+%F0%9F%99%8F+To+My+Github+Profile.)](https://git.io/typing-svg)
 
-<h3 align="center">A passionate of Software Developer from India 🇮🇳</h3>
+<h3 align="center">A passionate of Software Developer from IRAN</h3>
 
 ![Visitor Count](https://profile-counter.glitch.me/{prathameshdhande22}/count.svg)
 
-- 🌱 I’m currently learning </br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1. Data Structure and Algorithms**</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**2. Javascript** </br>
-- 📫 How to reach me **prathameshdhande534@gmail.com**
+- 🌱 I’m currently learning </br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1. Computer Vision And NLP**</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**2. Data Structure and Algorithms For A.I** </br>
+- 📫 How to reach me **owner2plus.ai@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prathamesh-dhande-3a039721a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/prathamesh-dhande-3a039721a/" height="35" width="130" /></a>&nbsp;             
+<a href="www.linkedin.com/in/owner2plusai" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/owner2plusai" height="35" width="130" /></a>&nbsp;             
 <a href="https://instagram.com/prathameshdhande5139" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="prathameshdhande5139" height="35" width="150" /></a>&nbsp;
 <a href="https://www.facebook.com/prathamesh.dhande.71/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="prathameshdhande5139" height="35" width="140" /></a>&nbsp;
-<a href="https://www.hackerrank.com/prathameshdhand1" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="prathameshdhand1" height="35" width="150" /></a>&nbsp;
+
 
 <a href="https://leetcode.com/prathamesh2003/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="prathamesh2003" height="35" width="140"/></a>&nbsp;
 <a href="https://www.codechef.com/users/prathamesh2003" target="blank"><img align="center" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"  alt="prathamesh2003" height="35" width="140"/></a>
