@@ -111,7 +111,6 @@
 </details>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=owner2plusai&theme=highcontrast)](https://git.io/streak-stats)
 
 
 <details> 
@@ -138,7 +137,7 @@
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="OWNER2PLUSAI's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=owner2plusai&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/owner2plusai"><img alt="OWNER2PLUSAI's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=owner2plusai&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
