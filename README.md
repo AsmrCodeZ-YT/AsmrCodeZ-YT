@@ -45,9 +45,9 @@
   <!-- END YOUTUBE-CARDS -->
   <!-- prettier-ignore-end -->
 
-  <p>📺 Get YouTube Cards for your profile at <a href="https://github.com/DenverCoder1/github-readme-youtube-cards">DenverCoder1/github-readme-youtube-cards</a></p>
+  <p>📺 YouTube Channel <a href="https://www.youtube.com/channel/UCYxEknAAHtV_hS5niL343TA">YouTube Channel</a></p>
   
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
+  <a href="https://www.youtube.com/c/owner2plusai?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
   
 </details>
 
