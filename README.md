@@ -13,11 +13,11 @@
 <p align="center">
 <a href="www.linkedin.com/in/owner2plusai" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/owner2plusai" height="35" width="130" /></a>&nbsp;             
 <a href="https://instagram.com/owner_2plus_ai" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E000000?style=for-the-badge&logo=instagram&logoColor=white" alt="prathameshdhande5139" height="35" width="150" /></a>&nbsp;
-<a href=": https://www.youtube.com/@owner2plusai" target="blank"><img align="center" src="https://img.shields.io/badge/Youtube-E00000?style=for-the-badge&logo=YouTube&logoColor=white" alt=": https://www.youtube.com/@owner2plusai" height="35" width="150" /></a>&nbsp;
+<a href="https://www.youtube.com/channel/UCYxEknAAHtV_hS5niL343TA" target="blank"><img align="center" src="https://img.shields.io/badge/Youtube-E00000?style=for-the-badge&logo=YouTube&logoColor=white" alt=": https://www.youtube.com/@owner2plusai" height="35" width="150" /></a>&nbsp;
 <a href="owner2plus.ai@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-Eff200?style=for-the-badge&logo=Gmail&logoColor=black" alt="owner2plus.ai@gmail.com" height="35" width="150" /></a>&nbsp;
 
 <p align="center">
-  <a href="https://www.youtube.com/c/owner2plusai?sub_confirmation=1">
+  <a href="https://www.youtube.com/channel/UCYxEknAAHtV_hS5niL343TA?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCipSxT7a3rn81vGLw9lqRkg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
   <a href="https://www.youtube.com/c/owner2plusai">
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCipSxT7a3rn81vGLw9lqRkg?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
@@ -45,11 +45,7 @@
   <a href="https://www.youtube.com/watch?v=yC1DSz7h_U0"><img src="https://ytcards.demolab.com/?id=yC1DSz7h_U0&title=How+To+Convert+.mkv+to+.mp4+with+ffmpeg&lang=en&timestamp=1632947582&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1245" alt="How To Convert .mkv to .mp4 with ffmpeg" title="How To Convert .mkv to .mp4 with ffmpeg"></a>
   <!-- END YOUTUBE-CARDS -->
   <!-- prettier-ignore-end -->
-
-  <p>📺 YouTube Channel <a href="https://www.youtube.com/channel/UCYxEknAAHtV_hS5niL343TA">YouTube Channel</a></p>
-  
-  <a href="https://www.youtube.com/channel/UCYxEknAAHtV_hS5niL343TA?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
-  
+ 
 </details>
 
 
