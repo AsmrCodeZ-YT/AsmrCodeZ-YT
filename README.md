@@ -48,7 +48,7 @@
 
   <p>📺 YouTube Channel <a href="https://www.youtube.com/channel/UCYxEknAAHtV_hS5niL343TA">YouTube Channel</a></p>
   
-  <a href="https://www.youtube.com/c/owner2plusai?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
+  <a href="https://www.youtube.com/channel/UCYxEknAAHtV_hS5niL343TA?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
   
 </details>
 
