@@ -1,7 +1,7 @@
 <!-- OWNER2PLUSAI ============= OMID EBRAHIMI -->
 
 <p align="center">
-  <a href="https://github.com/OWNER2PLUSAI">
+  <a href="https://github.com/AsmrCodeZ-YT">
     <img src="https://readme-typing-svg.demolab.com/?lines=OMID%20Ebrahimi;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
@@ -11,22 +11,13 @@
 </p>
 
 <p align="center">
-<a href="www.linkedin.com/in/owner2plusai" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Youtube&logoColor=white" alt="www.linkedin.com/in/owner2plusai" height="35" width="130" /></a>&nbsp;             
-<a href="https://instagram.com/owner_2plus_ai" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E000000?style=for-the-badge&logo=instagram&logoColor=white" alt="prathameshdhande5139" height="35" width="150" /></a>&nbsp;
-<a href="https://www.youtube.com/channel/UCYxEknAAHtV_hS5niL343TA" target="blank"><img align="center" src="https://img.shields.io/badge/Youtube-E00000?style=for-the-badge&logo=YouTube&logoColor=white" alt=": https://www.youtube.com/@owner2plusai" height="35" width="150" /></a>&nbsp;
-<a href="owner2plus.ai@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-Eff200?style=for-the-badge&logo=Gmail&logoColor=black" alt="owner2plus.ai@gmail.com" height="35" width="150" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/omidebrahimi1/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Youtube&logoColor=white" alt="https://www.linkedin.com/in/omidebrahimi1/" height="35" width="130" /></a>&nbsp;             
+<a href="https://instagram.com/asmrcodez" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E000000?style=for-the-badge&logo=instagram&logoColor=white" alt="prathameshdhande5139" height="35" width="150" /></a>&nbsp;
+<a href="https://www.youtube.com/@thecodez1" target="blank"><img align="center" src="https://img.shields.io/badge/Youtub:PER-E00000?style=for-the-badge&logo=YouTube&logoColor=white" alt="https://www.youtube.com/@thecodez1" height="35" width="150" /></a>&nbsp;
+<a href="https://www.youtube.com/@asmrcodez" target="blank"><img align="center" src="https://img.shields.io/badge/Youtube:ENG-E00000?style=for-the-badge&logo=YouTube&logoColor=white" alt="https://www.youtube.com/@asmrcodez" height="35" width="150" /></a>&nbsp;
+<a href="owner2plus.ai@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/omidh225-Eff200?style=for-the-badge&logo=Gmail&logoColor=black" alt="omidh225@gmail.com" height="35" width="150" /></a>&nbsp;
 
-<p align="center">
-  <a href="https://www.youtube.com/channel/UCYxEknAAHtV_hS5niL343TA?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCYxEknAAHtV_hS5niL343TA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
-  <a href="https://www.youtube.com/channel/UCYxEknAAHtV_hS5niL343TA">
-    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCYxEknAAHtV_hS5niL343TA?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-  <a href="https://github.com/owner2plusai?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/owner2plusai?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/OWNER2PLUSAI?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/OWNER2PLUSAI?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/OWNER2PLUSAI/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+
 </p>
 
 <details open> 
@@ -37,12 +28,12 @@
   <!-- prettier-ignore-start -->
   <!-- BEGIN YOUTUBE-CARDS -->
 
-  <a href="https://www.youtube.com/watch?v=iGRyIvyGcF0"><img src="https://ytcards.demolab.com/?id=iGRyIvyGcF0&title=How+To+Install+PyThon+Fast&lang=en&timestamp=1661708747&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=312" alt="Make clock with python" title="Make clock with python"></a>
+  <a href="https://www.youtube.com/watch?v=yC1DSz7h_U0"><img src="https://ytcards.demolab.com/?id=yC1DSz7h_U0&title=Convert+MKV+to+Mp4&lang=en&timestamp=1661708747&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=312" alt="Make clock with python" title="Make clock with python"></a>
   <a href="https://www.youtube.com/watch?v=_h2g5it3U1s"><img src="https://ytcards.demolab.com/?id=_h2g5it3U1s&title=How+Install+Jupyter+Notebook+on+VenV+And+Vscode&lang=en&timestamp=1661708747&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=403" alt="How Install Jupyter Notebook on VenV And Vscode" title="How Install Jupyter Notebook on VenV And Vscode"></a>
   <a href="https://www.youtube.com/watch?v=oB6px6URlUo"><img src="https://ytcards.demolab.com/?id=oB6px6URlUo&title=Make+Logo+With+Midjourney&lang=en&timestamp=1643900217&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=2115" alt="Make Logo With Midjourney" title="Make Logo With Midjourney"></a>
-  <a href="https://www.youtube.com/watch?v=YlWT_ft4_lo"><img src="https://ytcards.demolab.com/?id=YlWT_ft4_lo&title=How+To+Remove+BackGround+With+PyThon&lang=en&timestamp=1642108413&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=578" alt="How To Remove BackGround With PyThon" title="How To Remove BackGround With PyThon"></a>
-  <a href="https://www.youtube.com/watch?v=m9YQax4deZs"><img src="https://ytcards.demolab.com/?id=m9YQax4deZs&title=How+To+Install+FFmpeg+on+Window+11&lang=en&timestamp=1633051808&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1188" alt="How To Install FFmpeg on Window 11" title="How To Install FFmpeg on Window 11"></a>
-  <a href="https://www.youtube.com/watch?v=yC1DSz7h_U0"><img src="https://ytcards.demolab.com/?id=yC1DSz7h_U0&title=How+To+Convert+.mkv+to+.mp4+with+ffmpeg&lang=en&timestamp=1632947582&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1245" alt="How To Convert .mkv to .mp4 with ffmpeg" title="How To Convert .mkv to .mp4 with ffmpeg"></a>
+  <a href="https://www.youtube.com/watch?v=sljZ4iRBa7M"><img src="https://ytcards.demolab.com/?id=sljZ4iRBa7M&title=Object+Tracking&lang=en&timestamp=1642108413&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=578" alt="How To Remove BackGround With PyThon" title="How To Remove BackGround With PyThon"></a>
+  <a href="https://www.youtube.com/watch?v=MLNOiGVfWIc"><img src="https://ytcards.demolab.com/?id=MLNOiGVfWIc&title=How+To+Install+Nekoray+in+Ubuntu&lang=en&timestamp=1633051808&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1188" alt="How To Install FFmpeg on Window 11" title="How To Install FFmpeg on Window 11"></a>
+  <a href="https://www.youtube.com/watch?v=E4EPhtnlylI"><img src="https://ytcards.demolab.com/?id=E4EPhtnlylI&title=Read+Picture+in+opnencv&lang=en&timestamp=1632947582&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1245" alt="How To Convert .mkv to .mp4 with ffmpeg" title="How To Convert .mkv to .mp4 with ffmpeg"></a>
   <!-- END YOUTUBE-CARDS -->
   <!-- prettier-ignore-end -->
  
@@ -117,29 +108,15 @@
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p align="center">
-    <a href="https://github.com/owner2plusai">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="OWNER2PLUSAI's streak" src="https://streak-stats.demolab.com/?user=owner2plusai&theme=monokai-metallian&hide_border=true"/>
-    </a>
-    
+    <a href="https://github.com/AsmrCodeZ-YT">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AsmrCodeZ-YT's streak" src="https://streak-stats.demolab.com/?user=AsmrCodeZ-YT&theme=monokai-metallian&hide_border=true"/></a>
 
+  <p align="center">
+  <a href="https://github.com/AsmrCodeZ-YT"><img alt="AsmrCodeZ-YT's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=AsmrCodeZ-YT&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   
-
-
-
-  <a href="https://github.com/owner2plusai"><img alt="OWNER2PLUSAI's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=owner2plusai&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/owner2plusai"><img alt="OWNER2PLUSAI's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=owner2plusai&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <p align="center">
+  <a href="https://github.com/AsmrCodeZ-YT"><img alt="AsmrCodeZ-YT's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AsmrCodeZ-YT&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
-
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <a href="https://github.com/owner2plusai"><img alt="OWNER2PLUSAI's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=owner2plusai&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
-
-
 
 </details>
 
